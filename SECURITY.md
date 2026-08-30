@@ -6,8 +6,7 @@ If you discover any security vulnerabilities in the `es-hangul` package, please 
 ### How to Report
 
 To report a vulnerability, please email the maintainers at
-[ansghkdbsgh@gmail.com](mailto:ansghkdbsgh@gmail.com) or
-[artificialmint@gmail.com](mailto:artificialmint@gmail.com). Provide as much
+[opensource@toss.im](mailto:opensource@toss.im). Provide as much
 detail as possible about the vulnerability, including:
 
 * The nature of the vulnerability
